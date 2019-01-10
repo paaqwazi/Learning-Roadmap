@@ -7,7 +7,7 @@ Roadmap to becoming a Senior Full Stack Developer
  - [ ] Nodejs
  - [ ] Express
  - [ ] Mongodb
- - [ ] Testing stragies and tooling
+ - [ ] Testing strategies and tooling
  
 ### Frontend
  - [ ] improve css skills - read CSS3 FOR WEB DESIGNERS by Dan Cederholm
