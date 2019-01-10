@@ -1,24 +1,21 @@
 ```
-Roadmap to becoming a ninja
+Roadmap to becoming a Senior Full Stack Developer
 ```
 ### Backend
 
 ##### Nodejs
- - [ ] Testing stragies and tooling
+ - [ ] Nodejs
+ - [ ] Express
  - [ ] Mongodb
- - [ ] Express advanced 
- - [ ] Tools 
- 
-##### Laravel
- - [ ] Testing - read (laravel testing decoded by Jeffery Way)
- - [ ] Write laravel certification exams
+ - [ ] Testing stragies and tooling
  
 ### Frontend
  - [ ] improve css skills - read CSS3 FOR WEB DESIGNERS by Dan Cederholm
  - [ ] Saas - read Better CSS with Sass by Cole Henley
- - [ ] React 
  - [ ] Graphql [Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
- - [ ] Vuejs
+ - [ ] Reactjs
+ - [ ] Mastering react router
+ - [ ] Redux
 
 ### Design Patterns
  - [ ] Functional Programming
