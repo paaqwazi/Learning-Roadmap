@@ -3,11 +3,11 @@ Roadmap to becoming a Senior Full Stack Developer
 ```
 ### Backend
 
-##### Nodejs
+### Backend - Nodejs
  - [x] Nodejs
  - [x] Express
- - [ ] Mongodb
- - [ ] Testing strategies and tooling
+ - [X] Mongodb
+ - [X] Testing strategies and tooling
  - [ ] Nodejs Advance
  
 ### Frontend
@@ -18,10 +18,10 @@ Roadmap to becoming a Senior Full Stack Developer
  - [ ] Graphql [Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
  - [ ] Mastering react router
  
- ### Mobile
+### Mobile
  - [ ] React Native
 
- ### Desktop
+### Desktop
  - [ ] Electronjs
 
 ### Design Patterns
