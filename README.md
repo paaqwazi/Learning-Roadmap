@@ -8,6 +8,7 @@ Roadmap to becoming a Senior Full Stack Developer
  - [x] Express
  - [ ] Mongodb
  - [ ] Testing strategies and tooling
+ - [ ] Nodejs Advance
  
 ### Frontend
  - [x] Reactjs
@@ -16,6 +17,12 @@ Roadmap to becoming a Senior Full Stack Developer
  - [ ] Saas - read Better CSS with Sass by Cole Henley
  - [ ] Graphql [Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
  - [ ] Mastering react router
+ 
+ ### Mobile
+ - [ ] React Native
+
+ ### Desktop
+ - [ ] Electronjs
 
 ### Design Patterns
  - [ ] Functional Programming
@@ -29,4 +36,4 @@ Roadmap to becoming a Senior Full Stack Developer
 ### MISC
 - [ ] System Design
 - [ ] Data structures and Algorithms
-- [ ] Agile Methodologies
+- [ ] Data science with Javascript & Tensorflow
