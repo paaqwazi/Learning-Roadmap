@@ -9,13 +9,13 @@ Roadmap to becoming a Senior Full Stack Developer
  - [X] Mongodb
  - [X] Testing strategies and tooling
  - [ ] Nodejs Advance
+ - [ ] Graphql
  
 ### Frontend
  - [x] Reactjs
  - [x] Redux
  - [ ] improve css skills - read CSS3 FOR WEB DESIGNERS by Dan Cederholm
  - [ ] Saas - read Better CSS with Sass by Cole Henley
- - [ ] Graphql [Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
  - [ ] Mastering react router
  
 ### Mobile
